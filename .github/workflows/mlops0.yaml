@@ -1,4 +1,4 @@
-name: wine_quality_model
+name: wine-quality-model
 on: [push]
 jobs:
   run:
